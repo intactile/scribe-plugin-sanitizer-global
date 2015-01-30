@@ -1,0 +1,6 @@
+{
+  "name": "scribe-plugin-sanitizer-global",
+  "version": "v0.1.6",
+  "main": "scribe-plugin-sanitizer.js",
+  "license": "Apache 2"
+}
